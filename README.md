@@ -10,7 +10,7 @@ I've used [Sketchup](http://www.sketchup.com/) to draw and document my coop desi
 
 To load the design files into Sketchup, it is best to clone this repo; files can be found here: [sketchup](tree/master/sketchup).
 
-The drawings are also viewable as PDF file [doc/Chicken coop layout.pdf](blob/master/doc/Chicken%20coop%20layout.pdf?raw=true).
+The drawings are also viewable as PDF file [doc/Chicken coop layout.pdf](doc/Chicken%20coop%20layout.pdf?raw=true).
 
 ## Building the coop
 TODO: add making of this coop and some cost estimation
