@@ -8,7 +8,7 @@ This coop has a covered and fully screened footprint of ~ 6ft x 13 ft; the actua
 ## Design files
 I've used [Sketchup](http://www.sketchup.com/) to draw and document my coop design. I've used Sketchup Pro 8 do create the files, but the free [Sketchup Make](http://www.sketchup.com/products/sketchup-make) should allow you to view and modify the files as well.
 
-To load the design files into Sketchup, it is best to clone this repo; files can be found here: [sketchup](tree/master/sketchup).
+To load the design files into Sketchup, it is best to clone this repo; files can be found here: [sketchup](https://github.com/davidjenni/ChickenCoop/tree/master/sketchup).
 
 The drawings are also viewable as PDF file [doc/Chicken coop layout.pdf](doc/Chicken%20coop%20layout.pdf?raw=true).
 
